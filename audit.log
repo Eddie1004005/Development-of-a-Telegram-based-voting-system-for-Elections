@@ -1,0 +1,58 @@
+2025-06-18T15:26:16.642Z [INFO]: User 2103583869 (@Ntamie) started bot
+2025-06-18T15:26:29.135Z [ERROR]: Error storing user state for 2103583869: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:26:32.059Z [ERROR]: Error storing user state for 2103583869: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:28:32.106Z [INFO]: User 2092901349 (@Vaniaaaaaa) started bot
+2025-06-18T15:28:36.976Z [ERROR]: Error storing user state for 2092901349: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:29:05.494Z [INFO]: User 5045527889 (@edidionggg) started bot
+2025-06-18T15:29:20.007Z [ERROR]: Error storing candidate state for 5045527889: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:45:36.309Z [INFO]: User 2103583869 (Ntamie) initiated registration
+2025-06-18T15:45:36.363Z [ERROR]: Error storing user state for 2103583869: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:45:44.181Z [INFO]: User 2103583869 (@Ntamie) started bot
+2025-06-18T15:45:47.444Z [INFO]: User 2103583869 (Ntamie) initiated registration
+2025-06-18T15:46:54.696Z [INFO]: User 5045527889 (@edidionggg) started bot
+2025-06-18T15:47:00.600Z [INFO]: User 5045527889 (edidionggg) initiated registration
+2025-06-18T15:47:06.403Z [INFO]: User 5045527889 viewed candidates via callback
+2025-06-18T15:47:13.615Z [ERROR]: Error storing candidate state for 5045527889: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:47:17.451Z [INFO]: User 5045527889 requested help via callback
+2025-06-18T15:47:21.537Z [INFO]: User 5045527889 requested help
+2025-06-18T15:47:39.777Z [INFO]: User 5045527889 initiated candidate application
+2025-06-18T15:47:39.817Z [ERROR]: Error storing candidate state for 5045527889: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T16:47:38.040Z [INFO]: User 2092901349 started the bot
+2025-06-18T16:47:42.076Z [INFO]: User 2092901349 (Vaniaaaaaa) initiated registration
+2025-06-18T16:47:42.123Z [INFO]: User 2092901349 prompted for role selection
+2025-06-18T16:47:48.377Z [INFO]: User 2092901349 prompted for name
+2025-06-18T16:47:54.523Z [INFO]: User 2092901349 prompted for matric number
+2025-06-18T16:48:04.003Z [INFO]: User 2092901349 prompted for level
+2025-06-18T16:48:09.873Z [INFO]: User 2092901349 prompted for CGPA
+2025-06-18T16:48:15.958Z [INFO]: User 2092901349 prompted for disciplinary status
+2025-06-18T16:48:20.820Z [INFO]: User 2092901349 prompted for email
+2025-06-18T16:48:36.505Z [INFO]: OTP sent to adann.nwogu@stu.cu.edu.ng for 2092901349
+2025-06-18T16:49:39.149Z [INFO]: User 5045527889 started the bot
+2025-06-18T16:59:02.810Z [INFO]: Callback query from 5045527889: view_results
+2025-06-18T16:59:05.788Z [INFO]: Callback query from 5045527889: vote
+2025-06-18T16:59:05.802Z [INFO]: User 5045527889 initiated voting
+2025-06-18T16:59:09.036Z [INFO]: User 5045527889 (edidionggg) initiated registration
+2025-06-18T16:59:09.058Z [INFO]: User 5045527889 prompted for role selection
+2025-06-18T16:59:13.090Z [INFO]: User 5045527889 prompted for name
+2025-06-18T16:59:27.074Z [INFO]: User 5045527889 prompted for matric number
+2025-06-18T16:59:36.509Z [INFO]: User 5045527889 prompted for level
+2025-06-18T17:00:38.260Z [INFO]: User 5045527889 prompted for CGPA
+2025-06-18T17:00:53.773Z [INFO]: User 5045527889 prompted for disciplinary status
+2025-06-18T17:00:57.485Z [INFO]: User 5045527889 prompted for email
+2025-06-18T17:01:25.674Z [INFO]: OTP sent to solomon.asuquo@stu.cu.edu.ng for 5045527889
+2025-06-18T17:40:50.444Z [INFO]: User 2103583869 started the bot
+2025-06-18T17:40:57.012Z [INFO]: Callback query from 2103583869: register_voter
+2025-06-18T17:41:00.058Z [INFO]: User 2103583869 (Ntamie) initiated registration
+2025-06-18T17:41:00.146Z [INFO]: User 2103583869 prompted for role selection
+2025-06-18T17:41:07.557Z [INFO]: User 2103583869 prompted for name
+2025-06-18T17:41:18.016Z [INFO]: User 2103583869 prompted for matric number
+2025-06-18T17:41:20.557Z [INFO]: User 5045527889 started the bot
+2025-06-18T17:41:25.865Z [INFO]: User 2103583869 prompted for level
+2025-06-18T17:41:29.448Z [INFO]: User 2103583869 prompted for CGPA
+2025-06-18T17:41:32.215Z [INFO]: Callback query from 5045527889: view_results
+2025-06-18T17:41:35.538Z [INFO]: User 2103583869 prompted for disciplinary status
+2025-06-18T17:41:43.409Z [INFO]: Callback query from 5045527889: register_voter
+2025-06-18T17:41:45.494Z [INFO]: User 2103583869 prompted for email
+2025-06-18T17:41:58.763Z [INFO]: Callback query from 5045527889: apply_candidate
+2025-06-18T17:42:03.567Z [INFO]: User 5045527889 (edidionggg) initiated candidate application
+2025-06-18T17:42:20.627Z [INFO]: OTP sent to Celina.tony-idaka@stu.cu.edu.ng for 2103583869

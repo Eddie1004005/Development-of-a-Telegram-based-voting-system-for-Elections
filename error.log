@@ -1,0 +1,7 @@
+2025-06-18T15:26:29.135Z [ERROR]: Error storing user state for 2103583869: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:26:32.059Z [ERROR]: Error storing user state for 2103583869: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:28:36.976Z [ERROR]: Error storing user state for 2092901349: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:29:20.007Z [ERROR]: Error storing candidate state for 5045527889: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:45:36.363Z [ERROR]: Error storing user state for 2103583869: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:47:13.615Z [ERROR]: Error storing candidate state for 5045527889: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
+2025-06-18T15:47:39.817Z [ERROR]: Error storing candidate state for 5045527889: SQLITE_CONSTRAINT: FOREIGN KEY constraint failed
